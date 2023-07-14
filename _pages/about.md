@@ -23,7 +23,7 @@ You can download a PDF copy of my CV [here](/files/pdf/HanMengCV.pdf).
 
 # Selected awards
 
-- National Scholarship, 2021, 2022.
+- National Scholarship, 2020, 2021.
 - University-level First-class Academic Scholarship, 2022.
 - Outstanding Graduates, 2023.
 
