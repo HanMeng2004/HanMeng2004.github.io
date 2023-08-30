@@ -14,7 +14,7 @@ My name is Han Meng 孟涵. I am a first year Ph.D. student at [**School of Comp
 
 My research interests lie in natural language processing and human-computer interaction.
 
-You can download a PDF copy of my CV [here](/files/pdf/HanMengCV.pdf).
+You can download a PDF copy of my CV [here](/files/pdf/menghan_cv.pdf).
 
 # Experiences
 
