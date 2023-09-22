@@ -12,7 +12,7 @@ redirect_from:
 
 My name is Han Meng 孟涵. I am a first year Ph.D. student at [**School of Computing**](https://www.comp.nus.edu.sg/), [**National University of Singapore (NUS)**](https://www.nus.edu.sg/).  I received my B. Eng degree from [School of Computer Science](https://scs.bupt.edu.cn/), [Beijing University of Posts and Telecommunications (BUPT)](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications) in Jun 2023.
 
-My research interests lie in natural language processing and human-computer interaction.
+My research interests lie in natural language processing (NLP) and human-computer interaction (HCI).
 
 You can download a PDF copy of my CV [here](/files/pdf/menghan_cv.pdf).
 
@@ -24,7 +24,7 @@ You can download a PDF copy of my CV [here](/files/pdf/menghan_cv.pdf).
 # Selected awards
 
 - National Scholarship, 2020, 2021.
-- University-level First-class Academic Scholarship, 2022.
+- University-Level First-Class Academic Scholarship, 2022.
 - Provincial Outstanding Graduate, 2023.
 
 # News
