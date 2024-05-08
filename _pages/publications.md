@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-[here](/files/pdf/menghan_cv.pdf)
+[here](/files/pdf/2024_arxiv_Exploring_the_Potential_of_Human_LLM_Synergy_in_Advancing_Qualitative_Analysis.pdf)
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
