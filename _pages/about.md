@@ -12,7 +12,7 @@ redirect_from:
 
 My name is Han Meng 孟涵. I'm a first year Ph.D. student at [**School of Computing**](https://www.comp.nus.edu.sg/), [**National University of Singapore (NUS)**](https://www.nus.edu.sg/). I'm fortunately advised by [Prof. Yi-Chieh (EJ) Lee](https://www.yclee.net/) in the [AI4SG Lab](https://www.ai4sg.org/). I received my bachelor degree from [School of Computer Science](https://scs.bupt.edu.cn/), [Beijing University of Posts and Telecommunications (BUPT)](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications) in Jun 2023.
 
-My research interests lie in natural language processing (NLP) and human-computer interaction (HCI).
+My research interests lie in human-computer interaction (HCI), human-AI collaboration, and human-centered NLP.
 
 # Experiences
 
@@ -23,7 +23,7 @@ My research interests lie in natural language processing (NLP) and human-compute
 
 # Selected awards
 
-- NUS Research Scholarship, 2023 - 2027.
+- NUS Research Scholarship, 2023 - 2028.
 - National Scholarship, 2020, 2021.
 - Provincial Outstanding Graduate, 2023.
 
