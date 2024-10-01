@@ -10,7 +10,7 @@ redirect_from:
 
 # Bio
 
-Han Meng is a second-year Ph.D. student in the [**School of Computing**](https://www.comp.nus.edu.sg/) at the [**National University of Singapore (NUS)**](https://www.nus.edu.sg/), working under the supervison of Professor [Yi-Chieh (EJ) Lee](https://www.yclee.net/) in the [AI4SG Lab](https://www.ai4sg.org/). Her research focuses on human-AI interaction, computational social science, and human-centered natural language processing. In particular, her work uses AI to advance the fields of psychology and mental health. She received her bachelor's degree from [School of Computer Science](https://scs.bupt.edu.cn/), [Beijing University of Posts and Telecommunications (BUPT)](https://en.wikipedia.org/wiki/Beijing_University_of_Posts_and_Telecommunications) in Jun 2023.
+Han Meng is a second-year Ph.D. student in the [**School of Computing**](https://www.comp.nus.edu.sg/) at the [**National University of Singapore (NUS)**](https://www.nus.edu.sg/), working under the supervision of Professor [Yi-Chieh (EJ) Lee](https://www.yclee.net/) in the [AI4SG Lab](https://www.ai4sg.org/). Her research focuses on human-AI interaction, computational social science, and human-centered natural language processing. In particular, her work uses AI to advance the fields of psychology and mental health.
 
 # Experiences
 
