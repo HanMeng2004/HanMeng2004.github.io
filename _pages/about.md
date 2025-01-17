@@ -14,8 +14,8 @@ Han Meng is a second-year Ph.D. candidate in the **[School of Computing (SoC)](h
 
 # News
 
-- Jan 2025: Two papers accepted for CHI25.
-- Dec 2024: One paper accepted to the [LAK25](https://sites.google.com/view/lak-25-workshop-llms-for-qual/home) workshop.
+- Jan 2025: Two papers accepted for CHI 2025.
+- Dec 2024: One paper accepted to the LAK25 [workshop](https://sites.google.com/view/lak-25-workshop-llms-for-qual/home).
 - Dec 2024: Selected for the CHI 2025 In-person Doctoral Consortium 🎓.
 - Nov 2024: Check our preprint regarding AI harms [here](https://arxiv.org/abs/2410.20130).
 - Oct 2024: Gave a talk titled _Human-AI Partnership Approach to Unravel Human Psychological Constructs_ at SoC NUS.
