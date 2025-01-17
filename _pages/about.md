@@ -10,11 +10,14 @@ redirect_from:
 
 # Bio
 
-Han Meng is a second-year Ph.D. student in the [**School of Computing (SoC)**](https://www.comp.nus.edu.sg/) at the [**National University of Singapore (NUS)**](https://www.nus.edu.sg/), working under the supervision of Prof. [Yi-Chieh (EJ) Lee](https://www.yclee.net/) in the [AI4SG Lab](https://www.ai4sg.org/). Her research focuses on human-AI interaction, computational social science, and human-centered natural language processing. In particular, her work uses AI to advance the fields of psychology and mental health.
+Han Meng is a second-year Ph.D. candidate in the **[School of Computing (SoC)](https://www.comp.nus.edu.sg/)** at the **[National University of Singapore (NUS)](https://www.nus.edu.sg/)**. She works with Prof. [Yi-Chieh (EJ) Lee](https://www.yclee.net/) in the [AI4SG Lab](https://www.ai4sg.org/). Her research focuses on human-AI interaction, computational social science, and AI for social good. In particular, her work uses AI to advance the fields of psychology and mental health.
 
 # News
 
-- Nov 2024: Check our preprint regarding AI harms [here](https://arxiv.org/abs/2410.20130)!
+- Jan 2025: Two papers accepted for CHI25.
+- Dec 2024: One paper accepted to the [LAK25](https://sites.google.com/view/lak-25-workshop-llms-for-qual/home) workshop.
+- Dec 2024: Selected for the CHI 2025 In-person Doctoral Consortium 🎓.
+- Nov 2024: Check our preprint regarding AI harms [here](https://arxiv.org/abs/2410.20130).
 - Oct 2024: Gave a talk titled _Human-AI Partnership Approach to Unravel Human Psychological Constructs_ at SoC NUS.
 - May 2024: Please check our preprint regarding AI-assisted qualitative analysis and mental health stigma [here](https://arxiv.org/abs/2405.05758) if interested ✨.
 - Aug 2023: Joined NUS as a Ph.D. student.
@@ -22,6 +25,7 @@ Han Meng is a second-year Ph.D. student in the [**School of Computing (SoC)**](h
 # Teaching
 
 - Recitation Instructor/Teaching Assistant, [CS2030S](https://nus-cs2030s.github.io/2324-s2/) Programming Methodology II, Spring 2024, National University of Singapore
+- Teaching Assistant, [CS6206](https://nusmods.com/courses/CS6206/advanced-topics-in-human-computer-interaction) Advanced Topics in Human-Computer Interaction, Spring 2025, National University of Singapore
 
 # Selected awards
 
@@ -36,4 +40,4 @@ Han Meng is a second-year Ph.D. student in the [**School of Computing (SoC)**](h
 - Research Intern, Knowledge Graph Dialogue Research Group, China Telecom, Mar. 2022 - Jul. 2022, advised by Dr. Peixia Sun.
 - Research Intern, Department of Speech & NLP Research, Tensor Lab, OPPO, Jul. 2022 - Feb. 2023, advised by Dr. Xiaosong He.
 
-Last Update: Nov 2024
+Last Update: Jan 2025
