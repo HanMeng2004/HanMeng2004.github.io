@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Han Meng"
 title_separator          : "-"
 name                     : &name "Han Meng"
-description              : &description "Incoming Ph.D. Student"
+description              : &description "Second-Year Ph.D. Candidate"
 url                      : https://HanMeng2004.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "HanMeng2004/HanMeng2004.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Han Meng"
   avatar           : "profile.png"
-  bio              : "Second Year CS Ph.D. Student"
+  bio              : "Second Year CS Ph.D. Candidate"
   location         : "Singapore"
   employer         :
   pubmed           : 
