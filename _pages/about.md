@@ -14,12 +14,15 @@ Han Meng is a second-year Ph.D. candidate in the **[School of Computing (SoC)](h
 
 # News
 
-- Jan 2025: Two papers accepted for CHI 2025.
-- Dec 2024: One paper accepted to the LAK25 [workshop](https://sites.google.com/view/lak-25-workshop-llms-for-qual/home).
-- Dec 2024: Selected for the CHI 2025 In-person Doctoral Consortium 🎓.
-- Nov 2024: Check our preprint regarding AI harms [here](https://arxiv.org/abs/2410.20130).
+- Jan 2025: Served as an external reviewer for CHI LBW 2025.
+- Jan 2025: Two papers, one on deconstructing mental health stigma, and one on AI harms, have been accepted for CHI25.
+- Dec 2024: A paper on AI-assisted qualitative analysis has been accepted for LAK25 [workshop](https://sites.google.com/view/lak-25-workshop-llms-for-qual/home).
+- Dec 2024: Selected for the CHI25 In-person Doctoral Consortium 🎓.
+- Dec 2024: Passed my QE.
+- Nov 2024: Check out our preprint on AI harms [here](https://arxiv.org/abs/2410.20130).
 - Oct 2024: Gave a talk titled _Human-AI Partnership Approach to Unravel Human Psychological Constructs_ at SoC NUS.
-- May 2024: Please check our preprint regarding AI-assisted qualitative analysis and mental health stigma [here](https://arxiv.org/abs/2405.05758) if interested ✨.
+- May 2024: Please see our preprint on AI-assisted qualitative analysis and mental health stigma [here](https://arxiv.org/abs/2405.05758) if interested ✨.
+- Apr 2024: Gave a poster presentation titled _Understanding Social Stigma towards Mental Illness: from a Conversational Perspective_ at [SG HCI Meetup 2024](https://sites.google.com/view/sghci-meetup-2024/home).
 - Aug 2023: Joined NUS as a Ph.D. student.
 
 # Teaching
