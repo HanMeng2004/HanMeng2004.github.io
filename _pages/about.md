@@ -15,8 +15,8 @@ Han Meng is a second-year Ph.D. candidate in the **[School of Computing (SoC)](h
 # News
 
 - Jan 2025: Served as an external reviewer for CHI LBW 2025.
-- Jan 2025: Two papers, one on deconstructing mental health stigma, and one on AI harms, have been accepted for CHI25.
-- Dec 2024: A paper on AI-assisted qualitative analysis has been accepted for LAK25 [workshop](https://sites.google.com/view/lak-25-workshop-llms-for-qual/home).
+- Jan 2025: Two papers, one on [deconstructing mental health stigma](https://www.arxiv.org/abs/2502.06075), and one on [AI harms](https://arxiv.org/abs/2410.20130), have been accepted for CHI25.
+- Dec 2024: A paper on [AI-assisted qualitative analysis](https://arxiv.org/abs/2405.05758) has been accepted for LAK25 [workshop](https://sites.google.com/view/lak-25-workshop-llms-for-qual/home).
 - Dec 2024: Selected for the CHI25 In-person Doctoral Consortium 🎓.
 - Dec 2024: Passed my QE.
 - Nov 2024: Check out our preprint on AI harms [here](https://arxiv.org/abs/2410.20130).
@@ -42,5 +42,6 @@ Han Meng is a second-year Ph.D. candidate in the **[School of Computing (SoC)](h
 - Research Intern, CNIC, Chinese Academy of Sciences, Oct. 2021 - Apr. 2022, advised by Prof. Haibo Wu.
 - Research Intern, Knowledge Graph Dialogue Research Group, China Telecom, Mar. 2022 - Jul. 2022, advised by Dr. Peixia Sun.
 - Research Intern, Department of Speech & NLP Research, Tensor Lab, OPPO, Jul. 2022 - Feb. 2023, advised by Dr. Xiaosong He.
+  - I did some research there on the [decoding strategies](https://arxiv.org/abs/2210.13829) of language models.
 
 Last Update: Jan 2025
