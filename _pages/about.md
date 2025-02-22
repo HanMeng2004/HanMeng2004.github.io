@@ -14,6 +14,7 @@ Han Meng is a second-year Ph.D. candidate in the **[School of Computing (SoC)](h
 
 # News
 
+- Feb 2025: A paper on AI for social work has been accepted for CHI Late Breaking Work 2025.
 - Jan 2025: Served as an external reviewer for CHI LBW 2025 and received Special Recognition for Outstanding Reviews.
 - Jan 2025: Two papers, one on [deconstructing mental health stigma](https://www.arxiv.org/abs/2502.06075), and one on [AI harms](https://arxiv.org/abs/2410.20130), have been accepted for CHI25.
 - Dec 2024: A paper on [AI-assisted qualitative analysis](https://arxiv.org/abs/2405.05758) has been accepted for LAK25 [workshop](https://sites.google.com/view/lak-25-workshop-llms-for-qual/home).
@@ -44,4 +45,4 @@ Han Meng is a second-year Ph.D. candidate in the **[School of Computing (SoC)](h
 - Research Intern, Department of Speech & NLP Research, Tensor Lab, OPPO, Jul. 2022 - Feb. 2023, advised by Dr. Xiaosong He.
   - I did some research there on the [decoding strategies](https://arxiv.org/abs/2210.13829) of language models.
 
-Last Update: Jan 2025
+Last Update: Feb 2025
