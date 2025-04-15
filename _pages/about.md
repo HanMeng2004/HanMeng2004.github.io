@@ -14,15 +14,18 @@ Han Meng is a second-year Ph.D. candidate in the **[School of Computing (SoC)](h
 
 # News
 
-- Feb 2025: A paper on [AI for social work](https://arxiv.org/pdf/2502.19822) has been accepted for CHI Late Breaking Work 2025.
+- Apr 2025: Gave a talk titled _Deconstructing Depression Stigma: Integrating AI-driven Data Collection and Analysis with Causal Knowledge Graphs_ at [SG HCI Meetup 2025](https://sghcimeetup25.notion.site/).
+- Mar 2025: Travelled to Dublin, Ireland, to attend [LAK 25](https://www.solaresearch.org/events/lak/lak25/) in person.
+- Feb 2025: Gave a poster presentation titled _Deconstructing Depression Stigma: Integrating AI-driven Data Collection and Analysis with Causal Knowledge Graphs_ at [NUS Computing Research Week 2025](https://researchweek.comp.nus.edu.sg/computing/).
+- **Feb 2025: A paper on [AI for social work](https://arxiv.org/pdf/2502.19822) has been accepted for CHI Late Breaking Work 2025.**
 - Jan 2025: Served as an external reviewer for CHI LBW 2025 and received Special Recognition for Outstanding Reviews.
-- Jan 2025: Two papers, one on [deconstructing mental health stigma](https://www.arxiv.org/abs/2502.06075), and one on [AI harms](https://arxiv.org/abs/2410.20130), have been accepted for CHI25.
-- Dec 2024: A paper on [AI-assisted qualitative analysis](https://arxiv.org/abs/2405.05758) has been accepted for LAK25 [workshop](https://sites.google.com/view/lak-25-workshop-llms-for-qual/home).
-- Dec 2024: Selected for the CHI25 In-person Doctoral Consortium 🎓.
+- **Jan 2025: Two papers, one on [deconstructing mental health stigma](https://www.arxiv.org/abs/2502.06075) and one on [AI harms](https://arxiv.org/abs/2410.20130), have been accepted for CHI25.**
+- **Dec 2024: A paper on [AI-assisted qualitative analysis](https://arxiv.org/abs/2405.05758) has been accepted for LAK25 [workshop](https://sites.google.com/view/lak-25-workshop-llms-for-qual/home).**
+- **Dec 2024: Selected for the CHI25 In-person Doctoral Consortium 🎓.**
 - Dec 2024: Passed my QE.
 - Nov 2024: Check out our preprint on AI harms [here](https://arxiv.org/abs/2410.20130).
 - Oct 2024: Gave a talk titled _Human-AI Partnership Approach to Unravel Human Psychological Constructs_ at SoC NUS.
-- May 2024: Please see our preprint on AI-assisted qualitative analysis and mental health stigma [here](https://arxiv.org/abs/2405.05758) if interested ✨.
+- **May 2024: Please see our preprint on AI-assisted qualitative analysis and mental health stigma [here](https://arxiv.org/abs/2405.05758) if interested ✨.**
 - Apr 2024: Gave a poster presentation titled _Understanding Social Stigma towards Mental Illness: from a Conversational Perspective_ at [SG HCI Meetup 2024](https://sites.google.com/view/sghci-meetup-2024/home).
 - Aug 2023: Joined NUS as a Ph.D. student.
 
